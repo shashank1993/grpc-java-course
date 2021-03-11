@@ -10,3 +10,7 @@ This is a companion repository for my [GRPC Java course](http://bit.ly/grpc-java
 - Calculator Service
 - Unary, Server Streaming, Client Streaming, BiDi Streaming
 - Error Handling, Deadlines, SSL Encryption
+
+
+
+In intelij, right side Tasks > generateProto
